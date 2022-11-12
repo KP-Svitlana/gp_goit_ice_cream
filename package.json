@@ -2,10 +2,10 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://dvolodko.github.io/group-project4-icecream",
+  "homepage": "https://KP-Svitlana.github.io/gp_goit_ice_cream",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /group-project4-icecream/"
+    "build": "parcel build src/*.html --public-url /gp_goit_ice_cream/"
   },
   "repository": {
     "type": "git",
